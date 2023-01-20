@@ -1,0 +1,1 @@
+print("Ćwiczenia na GitHub")
